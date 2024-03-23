@@ -35,7 +35,7 @@
     </div>
     <div id="main-content">
         <h2>Dados Pessoais</h2>
-        <img id="profile-image" src="https://imgur.com/a/gNcSoZ0" alt="Foto de Perfil">
+        <img id="profile-image" src="https://pbs.twimg.com/profile_images/1766480097031147521/2_99L2BB_400x400.jpg" alt="Foto de Perfil">
         <p>Nome: Leonardo da Silveira</p>
         <p>E-mail: Leonardo.silveira@aluno.fmpsc.edu.br</p>
         <p>Telefone: (48) 99140-6554</p>
