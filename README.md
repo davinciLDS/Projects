@@ -18,8 +18,8 @@
         }
 
         #profile-image {
-            max-width: 200px;
-            border-radius: 50%;
+            max-width: 500px;
+            border-radius: 100%;
             display: block;
             margin: 0 auto;
         }
