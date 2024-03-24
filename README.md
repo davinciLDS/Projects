@@ -18,7 +18,7 @@
         }
 
         #profile-image {
-            max-width: 200px;
+            max-width: 5000px;
             border-radius: 50%;
             display: block;
             margin: 0 auto;
@@ -35,7 +35,7 @@
     </div>
     <div id="main-content">
         <h2>Dados Pessoais</h2>
-        <img id="profile-image" src="https://github.com/davinciLDS/Projects/blob/main/0142fa01-653d-4473-97fb-fcc8e21e614e.jfif" alt="Foto de Perfil">
+        <img id="profile-image" src="https://github.com/davinciLDS/Projects/blob/main/1711241761923.jpg" alt="Foto de Perfil">
         <p>Nome: Leonardo da Silveira</p>
         <p>E-mail: Leonardo.silveira@aluno.fmpsc.edu.br</p>
         <p>Telefone: (48) 99140-6554</p>
