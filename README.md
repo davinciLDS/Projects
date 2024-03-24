@@ -40,11 +40,7 @@
         <p>E-mail: Leonardo.silveira@aluno.fmpsc.edu.br</p>
         <p>Telefone: (48) 99140-6554</p>
 
-        <h2>Experiência Profissional</h2>
-        <p>Cargo: Atendente de Telemarketing</p>
-        <p>Empresa: TopMed Assistencia a Saude.</p>
-        <p>Descrição: Atendimento ao cliente.</p>
-
+       
         <h2>Experiência Profissional</h2>
         <p>Cargo: Atendente de Telemarketing</p>
         <p>Empresa: Dental Speed.</p>
